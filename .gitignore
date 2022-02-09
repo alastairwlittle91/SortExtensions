@@ -26,9 +26,3 @@
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
-
-# End of https://www.gitignore.io/api/dotnetcore,visualstudiocode
-Authentication/tempkey.rsa
-Learning Management System/.vscode/launch.json
-Learning Management System/.vscode/settings.json
-Learning Management System/.vscode/tasks.json
