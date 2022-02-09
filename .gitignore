@@ -1,0 +1,34 @@
+﻿# Created by https://www.gitignore.io/api/dotnetcore,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=dotnetcore,visualstudiocode
+
+### DotnetCore ###
+# .NET Core build folders
+[Bb]in
+[Oo]bj
+
+#Allow .refresh files for web sites
+![Bb]in/*.refresh
+
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
+
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/dotnetcore,visualstudiocode
+Authentication/tempkey.rsa
+Learning Management System/.vscode/launch.json
+Learning Management System/.vscode/settings.json
+Learning Management System/.vscode/tasks.json

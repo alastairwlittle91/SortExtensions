@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>AWLSortExtensions</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Alastair Little</Authors>
+    <Company>AWL</Company>
+    <Description>This provides sorting extension methods for number lists.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>
